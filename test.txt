@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D6BB-23FD
+
+ Directory of C:\Users\LEADER\Desktop\MyProject
+
+03-12-2017  10:14    <DIR>          .
+03-12-2017  10:14    <DIR>          ..
+03-12-2017  10:14                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  59,505,696,768 bytes free
